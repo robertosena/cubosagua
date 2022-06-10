@@ -1,4 +1,4 @@
-# RSG
+# MAFF
 
 CFGS Desenrotllament d'Aplicacions Web
 
@@ -8,6 +8,9 @@ Entorns de Desenrotllament
 
 10/06/2022
 4:28
+
+10/06/2022
+4:25
 
 Programa exemple per activitat de Github amb Python
 
